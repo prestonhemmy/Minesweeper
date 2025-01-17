@@ -45,17 +45,17 @@ Happy Minesweeping!
 The course COP3503C - Programming Fundamentals 2 offered at the University of Florida was responsible for the design concept and certain developmental guidelines including reccomended.
 
 SFML tutorial webpages for *sf::Event*, *sf::RenderWindow*, *sf::Sprite*, *sf::Texture*, *sf::Text*, *sf::Font*, *sf::Color*, etc. were refered to during the development of this project:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Event.php\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1RenderWindow.php\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Sprite.php\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Texture.php\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Text.php\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Font.php\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Event.php  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1RenderWindow.php  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Sprite.php  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Texture.php  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Text.php  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.6.1/classsf_1_1Font.php  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.sfml-dev.org/documentation/2.5.1/classsf_1_1Color.php
 
-Additionally, various other research was performed to fully implement components as specified by the course. In particular, the following sources from *Cppreference*, *GeeksforGeeks*, *Stack Overflow* and others like them were instrumental in the integration and use of random mine placement on the board:\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://en.cppreference.com/w/cpp/algorithm/random_shuffle\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/6926433/how-to-shuffle-a-stdvector\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.geeksforgeeks.org/stdmt19937-class-in-cpp/\
+Additionally, various other research was performed to fully implement components as specified by the course. In particular, the following sources from *Cppreference*, *GeeksforGeeks*, *Stack Overflow* and others like them were instrumental in the integration and use of random mine placement on the board:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/39288595/why-not-just-use-stdrandom-device  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://en.cppreference.com/w/cpp/algorithm/random_shuffle  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://stackoverflow.com/questions/6926433/how-to-shuffle-a-stdvector  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.geeksforgeeks.org/stdmt19937-class-in-cpp/  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://en.cppreference.com/w/cpp/numeric/random/mersenne_twister_engine
